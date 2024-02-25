@@ -1,5 +1,0 @@
-D:/User/Desktop/git_proj/tresult/build/CMakeFiles/tresult.dir
-D:/User/Desktop/git_proj/tresult/build/CMakeFiles/package.dir
-D:/User/Desktop/git_proj/tresult/build/CMakeFiles/package_source.dir
-D:/User/Desktop/git_proj/tresult/build/CMakeFiles/edit_cache.dir
-D:/User/Desktop/git_proj/tresult/build/CMakeFiles/rebuild_cache.dir
